@@ -2,15 +2,15 @@
 This small game was developed by me in the summer of 2022, while I was completing the Python Programming MOOC 2022 course. For more information about the course, visit https://programming-22.mooc.fi.
 
 ### Game Rules
-##### The robot follows the mouse's direction at a speed of +4.
-##### The monster hunts the robot at a speed of +1.
-##### The game will end immediately if the robot touches the monster or the blue door.
-##### Each coin is worth 10 points, with a maximum score of 100 points for this game.
+The robot follows the mouse's direction at a speed of +4.<br>
+The monster hunts the robot at a speed of +1.<br>
+The game will end immediately if the robot touches the monster or the blue door.<br>
+Each coin is worth 10 points, with a maximum score of 100 points for this game.
 
 
 # Installing pygame
 To view the project you can download the zip file first and install the pygame with typing following code in your command line:
-###### pip3 install pygame
+> pip3 install pygame
 
 
 # Visuals
