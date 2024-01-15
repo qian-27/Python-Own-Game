@@ -10,7 +10,7 @@ Each coin is worth 10 points, with a maximum score of 100 points for this game.
 
 # Installing pygame
 To view the project you can download the zip file first and install the pygame with typing following code in your command line:
-> pip3 install pygame
+pip3 install pygame
 
 
 # Visuals
